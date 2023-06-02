@@ -1,4 +1,4 @@
-**Welcome to my GitHub profile!**
+# **Welcome to my GitHub profile!**
 
 👋 Hi, I'm Liang Quan, and I'm excited to have you here.
 
