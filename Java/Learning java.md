@@ -10,7 +10,7 @@ A Java program must have one class whose name is the same as the program filenam
 
 In the example, the Person class must be declared in a program file named Person.java
 
-# Class VS Method
+**Class VS Method**
 Class is the blueprint for object. It makes up of instance variables representing the properties. 
 Methods define the behaviour of the class.
 
