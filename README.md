@@ -8,7 +8,7 @@ Feel free to explore my projects, contribute ideas, and connect with me. Happy c
 
 ## Attribution
 
-These learning notes are based on the tutorials from the "Bro Code" YouTube channel. The channel provides valuable resources, and I highly recommend checking it out: <a href="https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ">https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ</a>
+These learning notes are based on the tutorials from the "Bro Code" YouTube channel. The channel provides valuable resources, and I highly recommend checking it out: <a href="https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ" target=_blank>https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ</a>
 
 
 <!---
