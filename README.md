@@ -6,6 +6,11 @@ This is my personal space where I document my software learning journey and shar
 
 Feel free to explore my projects, contribute ideas, and connect with me. Happy coding!!😄
 
+## Attribution
+
+These learning notes are based on the tutorials from the "Bro Code" YouTube channel. The channel provides valuable resources, and I highly recommend checking it out: <a href="https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ">https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ</a>
+
+
 <!---
 LiangQuan95/LiangQuan95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
