@@ -45,7 +45,7 @@ for video, replace audio tag to video tag
 # Unordered and ordered list
 &lt;ul&gt; OR &lt;ol type&gt;<br>
 &lt;li&gt;&lt;/li&gt;<br>
-&lt;/ul&gt; OR &lt;ol type&gt;<br>
+&lt;/ul&gt; OR &lt;/ol&gt;<br>
 
 **description list** dt dd, terms and definition
 
