@@ -39,8 +39,17 @@ Precede your src, &lt;src="/filename/image.png"&gt; <br>
 # Inserting audio and video
 &lt;audio controls autoplay muted loop src="filename.mp3"&gt;
 
-if want to have backup, remove src in main line. put source tag, &lt;source src=""&gt;.<br> close tag &lt;/audio&gt;
+if want to have backup, remove src in main line. put source tag, &lt;source src=""&gt;.<br> close tag &lt;/audio&gt;<br>
 for video, replace audio tag to video tag
+
+# Unordered and ordered list
+&lt;ul&gt; OR &lt;ol type&gt;<br>
+&lt;li&gt;&lt;/li&gt;<br>
+
+**description list** dt dd, terms and definition
+
+
+
 
 
 
