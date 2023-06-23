@@ -32,9 +32,16 @@ You can use **href** to reference to the other html file you created or use mail
 
 # Inserting image
 place your image in the same folder as your html file
-&lt;src="image.png"&gt; <br>
+&lt;img src="image.png"&gt; <br>
 For housekeeping, place your images into a common image folder within the html folder. <br>
 Precede your src, &lt;src="/filename/image.png"&gt; <br>
+
+# Inserting audio and video
+&lt;audio controls autoplay muted loop src="filename.mp3"&gt;
+
+if want to have backup, remove src in main line. put source tag, &lt;source src=""&gt;.<br> close tag &lt;/audio&gt;
+for video, replace audio tag to video tag
+
 
 
 
