@@ -47,7 +47,24 @@ for video, replace audio tag to video tag
 &lt;li&gt;&lt;/li&gt;<br>
 &lt;/ul&gt; OR &lt;/ol&gt;<br>
 
-**description list** dt dd, terms and definition
+# Description list 
+dt dd, terms and definition
+
+# Table 
+use table, tr, th, td tags. Adjust using bgcolor align width
+
+# Colors
+Modify body, header(h1-h6) tags. style="", the background or text color can be written as the color itself, rgb, hexdecimal.
+
+# Span & Div
+Span = adds markup to text or portion of a document
+Div = defines a division of a document
+
+# Metatags
+Add metatags to head tags.
+Use &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt; This will scale your webpage to the mobile device screen width
+
+
 
 
 
