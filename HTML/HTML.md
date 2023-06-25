@@ -78,12 +78,12 @@ use script tags and function method(){document.getEelementById("id name").innerH
 form, label, input tags.<br>
 For form tag, use action, method. Two common method, GET & POST. GET is insecure (append data to end of the url), useful for search boxes.
 
-For label tags, use for="xyz" <!--for and id, put same. This allows the user to easily navigate to the textbox and type in the details.
+For label tags, use for="xyz" <!--**for and id**, put same. This allows the user to easily navigate to the textbox and type in the details.
  
 For input tag, format looks like &ltinput type="" id="xyz" name="variablename" placeholder="" required&gt; <br>
 there is type="text"/"password"/"email"/"reset"/"submit"/"tel"/"date"/"number"/"checkbox"<br>
 input type="radio" allow user to click button and select an option, eg. mr/mrs/ms/dr.<br>
-To set only one option/same group, name="title" same for the rest of the input.
+To set only one option within same group, **name="title"** same for the rest of the input.
 
 Use select tags for drop down list. Then use option tags
 
