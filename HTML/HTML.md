@@ -64,7 +64,19 @@ Div = defines a division of a document
 Add metatags to head tags.
 Use &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt; This will scale your webpage to the mobile device screen width
 
+# iframe
+embed content from another source into an HTML document. e.g advertisement<br>
+&lt;iframe src="embed website url OR another html file"&gt; 
+remove border, style="border:0"
 
+# button
+onClick="", give function to the button
+id="", give id to a word
+use script tags and function method(){document.getEelementById("id name").innerHTML=""}
+
+# form
+label, input tags. For label tags, use for="fname". For input tags, use type="text" id="fname" name="variablename" placeholder=""
+for and id, put same. This allows the user to easily navigate to the textbox and type in the details.
 
 
 
