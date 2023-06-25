@@ -70,13 +70,24 @@ embed content from another source into an HTML document. e.g advertisement<br>
 remove border, style="border:0"
 
 # button
-onClick="", give function to the button
+onClick="", give function to the button <br>
 id="", give id to a word
 use script tags and function method(){document.getEelementById("id name").innerHTML=""}
 
 # form
-label, input tags. For label tags, use for="fname". For input tags, use type="text" id="fname" name="variablename" placeholder=""
-for and id, put same. This allows the user to easily navigate to the textbox and type in the details.
+form, label, input tags.<br>
+For form tag, use action, method. Two common method, GET & POST. GET is insecure (append data to end of the url), useful for search boxes.
+
+For label tags, use for="xyz" <!--for and id, put same. This allows the user to easily navigate to the textbox and type in the details.
+ 
+For input tag, format looks like &ltinput type="" id="xyz" name="variablename" placeholder="" required&gt; <br>
+there is type="text"/"password"/"email"/"reset"/"submit"/"tel"/"date"/"number"/"checkbox"<br>
+input type="radio" allow user to click button and select an option, eg. mr/mrs/ms/dr.<br>
+To set only one option/same group, name="title" same for the rest of the input.
+
+Use select tags for drop down list. Then use option tags
+
+
 
 
 
