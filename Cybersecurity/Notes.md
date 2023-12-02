@@ -3,7 +3,11 @@ This serves as a notebook for my learning journey in Cybersecurity
 
 Google Cybersecurity Certificate
 
+CIA - confidentiality, integrity, availability
 SIEM - Security Information and Event Management - it is a tool to identify and analyze threats, risks, and vulnerabilities. 
+PII - Personal identifiable information
+SPII - Sensitive ""
+Compliance - process of adhereing to internal standards and external regulations
 
 Phishing - use of digital communications to trick people into revealing sensitive data or deploying malicious software. 
 Malware - software designed to harm devices or networks.
@@ -130,4 +134,18 @@ This domain addresses the security aspects of the software development process.
 - Software Security Effectiveness
 - Database Security
 - Security in Mobile Code Development
+
+---
+
+## Security frameworks and controls 
+framework - identifying security goals - establishing guidelines
+
+NIST cybersecurity framework (CSF)
+
+---
+
+SIEM - Security Information and Event Management - uses dashboards to organize data into categories and allows analysts to identify potential security incidents as they happen - tool to collect and analyze log data - common tools - Splunk and Chronicle 
+
+Playbook - predefined set of procedures or instructions that guide in responding to and mitigating security incidents.
+Network protocol analyzer (packet sniffer) - capture and analyze data traffic within a network - tcpdump and wireshark
 
